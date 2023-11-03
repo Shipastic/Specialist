@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesForLib", "ClassesForLib.csproj", "{042BF194-9D3B-48E2-8B43-1F02A8540082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionClasses", "..\ReflectionClasses\ReflectionClasses.csproj", "{E90126AD-668A-4A34-8012-C367DE75E62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042BF194-9D3B-48E2-8B43-1F02A8540082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042BF194-9D3B-48E2-8B43-1F02A8540082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042BF194-9D3B-48E2-8B43-1F02A8540082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042BF194-9D3B-48E2-8B43-1F02A8540082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90126AD-668A-4A34-8012-C367DE75E62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90126AD-668A-4A34-8012-C367DE75E62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90126AD-668A-4A34-8012-C367DE75E62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90126AD-668A-4A34-8012-C367DE75E62F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F547C7D1-E85F-4A5E-9CB3-827E448E4006}
+	EndGlobalSection
+EndGlobal

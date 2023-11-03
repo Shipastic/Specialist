@@ -1,0 +1,11 @@
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\bin\Debug\net7.0\ClassesForLib.deps.json
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\bin\Debug\net7.0\ClassesForLib.dll
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\bin\Debug\net7.0\ClassesForLib.pdb
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\obj\Debug\net7.0\ClassesForLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\obj\Debug\net7.0\ClassesForLib.AssemblyInfoInputs.cache
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\obj\Debug\net7.0\ClassesForLib.AssemblyInfo.cs
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\obj\Debug\net7.0\ClassesForLib.csproj.CoreCompileInputs.cache
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\obj\Debug\net7.0\ClassesForLib.dll
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\obj\Debug\net7.0\refint\ClassesForLib.dll
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\obj\Debug\net7.0\ClassesForLib.pdb
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ClassesForLib\obj\Debug\net7.0\ref\ClassesForLib.dll

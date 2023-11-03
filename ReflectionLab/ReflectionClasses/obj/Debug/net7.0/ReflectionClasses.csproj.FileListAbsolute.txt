@@ -1,0 +1,14 @@
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\bin\Debug\net7.0\ReflectionClasses.exe
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\bin\Debug\net7.0\ReflectionClasses.deps.json
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\bin\Debug\net7.0\ReflectionClasses.runtimeconfig.json
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\bin\Debug\net7.0\ReflectionClasses.dll
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\bin\Debug\net7.0\ReflectionClasses.pdb
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\obj\Debug\net7.0\ReflectionClasses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\obj\Debug\net7.0\ReflectionClasses.AssemblyInfoInputs.cache
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\obj\Debug\net7.0\ReflectionClasses.AssemblyInfo.cs
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\obj\Debug\net7.0\ReflectionClasses.csproj.CoreCompileInputs.cache
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\obj\Debug\net7.0\ReflectionClasses.dll
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\obj\Debug\net7.0\refint\ReflectionClasses.dll
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\obj\Debug\net7.0\ReflectionClasses.pdb
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\obj\Debug\net7.0\ReflectionClasses.genruntimeconfig.cache
+F:\Специалист\Projects\SpecialistLabs\ReflectionLab\ReflectionClasses\obj\Debug\net7.0\ref\ReflectionClasses.dll
