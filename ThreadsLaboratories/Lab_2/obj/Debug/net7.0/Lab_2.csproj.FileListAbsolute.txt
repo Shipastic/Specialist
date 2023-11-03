@@ -1,0 +1,14 @@
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\bin\Debug\net7.0\Lab_2.exe
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\bin\Debug\net7.0\Lab_2.deps.json
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\bin\Debug\net7.0\Lab_2.runtimeconfig.json
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\bin\Debug\net7.0\Lab_2.dll
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\bin\Debug\net7.0\Lab_2.pdb
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\obj\Debug\net7.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\obj\Debug\net7.0\Lab_2.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\obj\Debug\net7.0\Lab_2.AssemblyInfo.cs
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\obj\Debug\net7.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\obj\Debug\net7.0\Lab_2.dll
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\obj\Debug\net7.0\refint\Lab_2.dll
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\obj\Debug\net7.0\Lab_2.pdb
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\obj\Debug\net7.0\Lab_2.genruntimeconfig.cache
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_2\obj\Debug\net7.0\ref\Lab_2.dll

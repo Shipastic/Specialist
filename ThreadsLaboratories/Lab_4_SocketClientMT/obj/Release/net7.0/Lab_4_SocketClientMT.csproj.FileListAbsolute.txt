@@ -1,0 +1,14 @@
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\bin\Release\net7.0\Lab_4_SocketClientMT.exe
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\bin\Release\net7.0\Lab_4_SocketClientMT.deps.json
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\bin\Release\net7.0\Lab_4_SocketClientMT.runtimeconfig.json
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\bin\Release\net7.0\Lab_4_SocketClientMT.dll
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\bin\Release\net7.0\Lab_4_SocketClientMT.pdb
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\obj\Release\net7.0\Lab_4_SocketClientMT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\obj\Release\net7.0\Lab_4_SocketClientMT.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\obj\Release\net7.0\Lab_4_SocketClientMT.AssemblyInfo.cs
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\obj\Release\net7.0\Lab_4_SocketClientMT.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\obj\Release\net7.0\Lab_4_SocketClientMT.dll
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\obj\Release\net7.0\refint\Lab_4_SocketClientMT.dll
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\obj\Release\net7.0\Lab_4_SocketClientMT.pdb
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\obj\Release\net7.0\Lab_4_SocketClientMT.genruntimeconfig.cache
+C:\Users\Денис\source\repos\ThreadsLaboratories\Lab_4_SocketClientMT\obj\Release\net7.0\ref\Lab_4_SocketClientMT.dll
